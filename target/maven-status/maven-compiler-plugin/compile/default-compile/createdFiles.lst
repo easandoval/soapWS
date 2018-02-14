@@ -1,0 +1,11 @@
+com\gt\soapws\Dao\PaisDao.class
+com\gt\soapws\model\Departamento_.class
+com\gt\soapws\Dao\DepartamentoDao.class
+com\gt\soapws\Dao\DepartamentoDaoImpl.class
+com\gt\soapws\Dao\PaisDaoImpl.class
+com\gt\soapws\InsertData.class
+com\gt\soapws\model\Departamento.class
+com\gt\soapws\model\Pais.class
+com\gt\soapws\Svc\PaisDeptoSvc.class
+com\gt\soapws\model\Pais_.class
+com\gt\soapws\Svc\PaisDeptoSvcImpl.class
